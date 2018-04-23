@@ -19,5 +19,3 @@ With the growth, several new teams were formed with the goal of  expanding busin
 “2017 was an exciting year for Memsource,” says CEO David Canek. “We  were able to welcome some really talented people to the company who are  excited to enhance the platform and add new features and services for  our customers in the localization industry. We’re looking forward to the  next 6 months and beyond.”
 
 Read more about [Memsource’s exciting year](https://www.memsource.com/blog/2017/12/08/memsource-2017-record-year-new-teams/) and [listen to the webinar recording](https://register.gotowebinar.com/register/3146012116894640131) with David and several new team members.
-
-![](/uploads/2018/04/23/Submit-request-help-center (1).gif)
