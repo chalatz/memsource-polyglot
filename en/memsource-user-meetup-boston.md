@@ -28,16 +28,7 @@ contact_message: For further information, please contact us at [events@memsource
 page_title: Memsource User Meetup Boston
 speakers:
   title: Speakers
-  speakers:
-  - name: David Canek
-    description: CEO and Head of Product, Memsource
-    photo: "/uploads/2018/04/12/WP-DAVID-150x150.png"
-  - name: Christophe Eyraud
-    description: Solutions Architect, Semantix
-    photo: "/uploads/2018/04/12/Christophe_Eyraud_2_circle-150x150.jpg"
-  - name: test
-    description: testsgfgd
-    photo: "/uploads/2018/04/12/Christophe_Eyraud_2_circle-150x150.jpg"
+  speakers: []
 program:
   title: Program
   items:
