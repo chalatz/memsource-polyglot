@@ -9,7 +9,7 @@ location:
   place: XXXX 107
 permalink: XXXX-XXXX-XX-XXXXXX-2018
 lang: XX
-layout: XXXXXX
+layout: meetup
 register_now: XXXXXXXX XXX
 extra_info: |-
   **XXXXXX XXXX XXXX XX XX XXXXXXXX, XXXXX 15, 7:00 XX XX XXXXXXXXX’X XXX “X XXX X’ XXXXX,” XXXX XXXXXXXXXXX XXXXXXX XXXXXXX.**
