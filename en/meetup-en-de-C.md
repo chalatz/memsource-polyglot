@@ -7,7 +7,7 @@ location:
   url: https://signatureboston.com/hynes
   directions: XXXX XX XXX XXXXXXXX XXXXXX XXXXX
   place: XXXX 107
-permalink: XXXX-XXXX-XX-XXXXXX-2018
+permalink: user-meet-up-boston-2018
 lang: XX
 layout: meetup
 register_now: XXXXXXXX XXX
