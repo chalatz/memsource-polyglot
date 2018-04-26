@@ -25,7 +25,7 @@ register_form:
   company_name_label: Company Name
   job_title_label: Job Title
 contact_message: For further information, please contact us at [events@memsource.com](mailto:events@memsource.com)
-page_title: Memsource User Meetup Boston kmk
+page_title: Memsource User Meetup Boston kmk nlkljk . kůlk klůl
 speakers:
   title: Speakers
   speakers:
