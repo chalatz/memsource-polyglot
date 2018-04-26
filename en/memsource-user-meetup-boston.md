@@ -25,10 +25,16 @@ register_form:
   company_name_label: Company Name
   job_title_label: Job Title
 contact_message: For further information, please contact us at [events@memsource.com](mailto:events@memsource.com)
-page_title: Memsource User Meetup Boston
+page_title: Memsource User Meetup Boston kmk
 speakers:
   title: Speakers
-  speakers: []
+  speakers:
+  - name: ''
+    description: ''
+    photo: ''
+  - name: ''
+    description: ''
+    photo: "/uploads/2018/04/12/Christophe_Eyraud_2_circle-150x150.jpg"
 program:
   title: Program
   items:
@@ -56,3 +62,7 @@ program:
 Join our 8th **Memsource User Meetup** for a chance  to learn about the latest and upcoming developments at Memsource,  engage in conversation about industry trends, meet other Memsource  users, ask questions and provide feedback.
 
 The event is free to attend and is open to all interested parties. Please [register](#register) below, and follow us on social media and visit our blog to stay up-to-date on all things Memsource.
+
+[Google Map – Hurricane’s Boston](https://www.google.com/maps/place/Hurricane's+at+the+Garden/@42.3648176,-71.0629828,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3708e325b05ad:0xe11ddd5e9c5ee75e!8m2!3d42.3648137!4d-71.0607941)
+
+> ughgjkkjhkh
