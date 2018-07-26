@@ -31,6 +31,9 @@ parallel_localization: true
 
 permalink: pretty
 
+include:
+  - _redirects
+
 # Build settings
 markdown: kramdown
 theme: minima
