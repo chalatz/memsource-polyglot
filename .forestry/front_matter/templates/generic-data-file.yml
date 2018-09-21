@@ -7,5 +7,6 @@ fields:
   name: name
   label: name
 pages:
+- _data/ja/name.yml
 - _data/en/name.yml
 - _data/en/Test.yml
