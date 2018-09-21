@@ -1,3 +1,10 @@
 ---
 lang: en
+layout: ''
+page_title: ''
+fields:
+- key: 1
+  value: one
+- key: 2
+  value: two
 published: false

@@ -14,3 +14,5 @@ fields:
   - type: text
     name: value
     label: value
+pages:
+- _data/en/Test.yml
