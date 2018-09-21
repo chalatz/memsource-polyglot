@@ -1,11 +1,5 @@
 ---
-pages:
-- _posts/en/test-post.md
-- _posts/test.md
-- _posts/en/2018-04-19-markdown.md
-- _posts/ja/2018-03-18-benefits-of-using-a-cloud-server.md
-- _posts/en/2018-03-12-memsource-ranked-7-on-saas-1000-growth-list.md
-- _posts/en/2018-03-21-connecting-students-with-the-industry.md
+label: post
 hide_body: false
 is_partial: false
 fields:
@@ -42,3 +36,8 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- _posts/en/2018-03-21-connecting-students-with-the-industry.md
+- _posts/en/2018-03-12-memsource-ranked-7-on-saas-1000-growth-list.md
+- _posts/ja/2018-03-18-benefits-of-using-a-cloud-server.md
+- _posts/en/2018-04-19-markdown.md
