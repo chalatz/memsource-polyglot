@@ -17,6 +17,12 @@ sections:
   label: en
   create: all
   match: "**/*"
+  new_doc_ext: yml
+- type: directory
+  path: _data/ja
+  label: ja
+  create: all
+  match: "**/*"
   new_doc_ext: ".yml"
 upload_dir: uploads
 public_path: "/uploads"
