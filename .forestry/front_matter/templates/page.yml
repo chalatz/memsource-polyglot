@@ -30,3 +30,5 @@ fields:
   label: permalink
   config:
     required: true
+pages:
+- _data/en/Test.yml
