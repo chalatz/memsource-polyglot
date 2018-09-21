@@ -12,6 +12,12 @@ sections:
   create: all
 - type: heading
   label: Data Files
+- type: directory
+  path: _data/en
+  label: en
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
