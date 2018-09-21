@@ -1,0 +1,16 @@
+---
+label: Generic data file
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: field_group_list
+  name: fields
+  label: fields
+  fields:
+  - type: text
+    name: key
+    label: key
+  - type: text
+    name: value
+    label: value
